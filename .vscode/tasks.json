@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/home/doui/Documents/Code-Stuff/2D-Gamedesktop:rundesktop",
+			"script": "desktop:run",
+			"description": "",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"project": "desktop",
+			"buildFile": "/home/doui/Documents/Code-Stuff/2D-Game/desktop/build.gradle",
+			"rootProject": "2D-Game",
+			"projectFolder": "/home/doui/Documents/Code-Stuff/2D-Game",
+			"workspaceFolder": "/home/doui/Documents/Code-Stuff/2D-Game",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: desktop:run"
+		}
+	]
+}
